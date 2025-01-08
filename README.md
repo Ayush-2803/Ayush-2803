@@ -8,5 +8,5 @@
 - **Tools:** Git
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](linkedin.com/in/ayush-kumar-aa6167336)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/ayush-kumar-aa6167336)
 
